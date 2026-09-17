@@ -6,7 +6,8 @@ echo " ChuD InfiniteTalk One-Click Public V1.1       "
 echo " hf_xet High Performance + Model Verification  "
 echo "================================================"
 
-REPO_RAW="https://raw.githubusercontent.com/Chudeer89/chud-infinitetalk-runpod/main"
+RELEASE_REF="bdeedb520d69d97cc53c96a46278d7ba9f769058"
+REPO_RAW="https://raw.githubusercontent.com/Chudeer89/chud-infinitetalk-runpod/${RELEASE_REF}"
 
 BASE="/opt/chud"
 COMFY="$BASE/ComfyUI"
