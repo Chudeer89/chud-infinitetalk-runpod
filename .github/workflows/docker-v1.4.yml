@@ -55,5 +55,3 @@ jobs:
           tags: |
             ghcr.io/chudeer89/chud-infinitetalk:1.4
             ghcr.io/chudeer89/chud-infinitetalk:latest
-          cache-from: type=gha
-          cache-to: type=gha,mode=max
